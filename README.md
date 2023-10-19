@@ -38,8 +38,8 @@ Obtain the graph.
 ## Program :
 
 ### Program to implement the the Logistic Regression Using Gradient Descent.
-### Developed by : ABRIN NISHA A 
-### RegisterNumber : 212222230005
+### Developed by : PRANEET S 
+### RegisterNumber : 212221230078
 
 ```
 import numpy as np
